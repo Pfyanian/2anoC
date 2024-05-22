@@ -10,5 +10,13 @@ body {
         color: white;
         display: flex;
         justify-content: space-around;
+        margin: 0 16px;
+        padding: 24px 0;
+
         }
+    .cabecalho-lista-item {
+        display: inline-block;
+        margin: 0 24px;
+        padding: 24px 0;
+    }
     }
