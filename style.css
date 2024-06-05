@@ -8,11 +8,8 @@ body {
     .cabecalho {
         background-color: #383D58;
         color: white;
-        display: flex;
+        display:flex;
         justify-content: space-around;
-        margin: 0 16px;
-        padding: 24px 0;
-
         }
     .cabecalho-lista-item {
         display: inline-block;
