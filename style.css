@@ -21,6 +21,7 @@ body {
         background-image: linear-gradient(#383D58,#00c0eb);
         color: white;
         display:flex;
+        justify-content: end;
     }
     .escola {
         background-image: linear-gradient(#383D58,#00c0eb);
