@@ -34,6 +34,9 @@ body {
         justify-content: center;
         align-items: center;
         }
+    .escola-titulo{
+        padding: 24px 0;
+    }    
     }
     
     }
